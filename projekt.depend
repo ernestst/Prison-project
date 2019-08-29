@@ -1,0 +1,80 @@
+# depslib dependency file v1.0
+1515097135 source:c:\users\erniu\desktop\musi to byc to\projekt\funkcje.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"st.h"
+
+1515092007 c:\users\erniu\desktop\musi to byc to\projekt\st.h
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+
+1515091938 source:c:\users\erniu\desktop\musi to byc to\projekt\main.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"st.h"
+
+1513960959 source:c:\users\erniu\desktop\musi to byc to\projekt\dod_miejsca.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"st.h"
+
+1513961536 source:c:\users\erniu\desktop\musi to byc to\projekt\wysz_przest.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"st.h"
+
+1515145516 source:i:\musi to byc to\projekt\funkcje.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"st.h"
+
+1515092008 i:\musi to byc to\projekt\st.h
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+
+1515091940 source:i:\musi to byc to\projekt\main.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"st.h"
+
+1515157363 source:c:\users\ernest\desktop\projekt\funkcje.c
+	"st.h"
+
+1515092008 c:\users\ernest\desktop\projekt\st.h
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+
+1515155918 source:c:\users\ernest\desktop\projekt\main.c
+	"st.h"
+
+1515162608 source:c:\users\ernest\desktop\ernest stachelski\projekt\funkcje.c
+	"st.h"
+
+1515160431 c:\users\ernest\desktop\ernest stachelski\projekt\st.h
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+
+1515163441 source:c:\users\ernest\desktop\ernest stachelski\projekt\main.c
+	"st.h"
+
+1515329163 source:c:\users\erniu\desktop\ernest stachelski\projekt\funkcje.c
+	"st.h"
+
+1515164032 c:\users\erniu\desktop\ernest stachelski\projekt\st.h
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+
+1515167042 source:c:\users\erniu\desktop\ernest stachelski\projekt\main.c
+	"st.h"
+

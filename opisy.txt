@@ -1,0 +1,8 @@
+1 Janusz Makowski 180 79 28 Okulary Blizna_pod_okiem 0
+2 Franciszek Kozak 175 82 34 Pieprzyk_nad_uchem 1
+3 Joanna Kowalska 172 60 29 0
+4 Katarzyna Kowalewska 162 50 23 Diastema Tatuaz_na_szyi Kolczyk_w_nosie 0
+5 Piotr Lubiarz 198 89 21 Broda 0
+6 Andrzej Andrzejewski 187 77 39 Biale_wlosy 1
+7 Paulina Przybylska 166 65 20 0
+8 Karolina Rosztrowska 166 57 19 Brak_reki 1
